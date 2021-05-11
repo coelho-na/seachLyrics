@@ -1,6 +1,6 @@
 ## Aplicação com JavaScript Puro
 
-- Nessa aplicação foi aprendido como fazer requisições a APIS com o fetch, a lidar com Promises, usar asyn e await, como também os métodos map e trim.
+- Nessa aplicação foi aprendido como fazer requisições a APIS com o fetch, a lidar com Promises, usar async e await, como também os métodos map e trim.
 
 ---
 
